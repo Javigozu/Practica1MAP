@@ -1,0 +1,97 @@
+[33mcommit 48122205d5f979c94ae3f1a2998bd5658e4f1c2b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrama-2[m[33m, [m[1;31morigin/rama-2[m[33m)[m
+Author: Jaime Nieto <jainie01@ucm.es>
+Date:   Mon Mar 4 13:02:39 2024 +0100
+
+    apartado8
+
+[33mcommit 33bb1c5372c73d2f8fd0198739ec8592fabf7320[m[33m ([m[1;32mnew_branch[m[33m)[m
+Merge: 49a1a7f f5240a6
+Author: Jaime Nieto <jainie01@ucm.es>
+Date:   Mon Mar 4 12:28:54 2024 +0100
+
+    Merge branch 'main' of https://github.com/Javigozu/Practica1MAP
+
+[33mcommit 49a1a7f9e3f36268af29d1bb53d5c63923922f4d[m
+Author: Jaime Nieto <jainie01@ucm.es>
+Date:   Mon Mar 4 12:28:06 2024 +0100
+
+    Recuperado el .cs
+
+[33mcommit f5240a6955a20b9c0760cb9dd293575b6b255fcb[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Mar 4 12:27:51 2024 +0100
+
+    Error solucionado
+
+[33mcommit 7156f8ca4ac9c1bd6960c76e81e1ffb2e6700c0e[m
+Merge: ada591c abc7484
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Mar 4 12:25:41 2024 +0100
+
+    Solucionado conflicto por no hacer pull
+
+[33mcommit ada591c1eb3082e82d0f768b6d7cf9698eb3e5d8[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Mar 4 12:18:04 2024 +0100
+
+    Modificando otra vez
+
+[33mcommit abc7484e6e1ccc38710b7dbe4dc23e33da6c5356[m
+Author: Jaime Nieto <jainie01@ucm.es>
+Date:   Mon Mar 4 12:15:23 2024 +0100
+
+    mas cambios
+
+[33mcommit 85a96c33a6e5efbef397892f78254fd3a1a0437c[m
+Author: Jaime Nieto <jainie01@ucm.es>
+Date:   Mon Mar 4 12:12:38 2024 +0100
+
+    cambio
+
+[33mcommit 69af8de39b3aa1f9f5724a26ea01f876edbe05bb[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Mar 4 12:08:16 2024 +0100
+
+    Cambio README Javier
+
+[33mcommit b6c15e586a8bd218985a66ae90e26f550a9957d4[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Mar 4 11:40:59 2024 +0100
+
+    Añadido README.md
+
+[33mcommit 13596e2950227063888edd618f7e8fb748685777[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Fri Mar 1 12:38:26 2024 +0100
+
+    Traduccion texto
+
+[33mcommit 830f76ebf845d16080e22d8717c0ee09a6834fdf[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Fri Mar 1 12:34:53 2024 +0100
+
+    borrado cache
+
+[33mcommit b99e42d06596fb029af55a12731874a0c396d3fa[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Feb 26 12:56:39 2024 +0100
+
+    Funciona el gitignoe o que??
+
+[33mcommit f467f7894dec419eaaf34eda26caabc47d42bc98[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Feb 26 12:33:37 2024 +0100
+
+    Archivo de prueba eliminado, las culpas al profe
+
+[33mcommit 274f1435b9003b42cf594954867c757bc5ca3e3d[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Feb 26 12:31:12 2024 +0100
+
+    Añadido archivo .gitignore
+
+[33mcommit 1825b11f084f7bfacf33f74d0e7b881610214b2e[m
+Author: Javier Gómez Zúñiga <jagome20@ucm.es>
+Date:   Mon Feb 26 11:41:29 2024 +0100
+
+    Archivos iniciales añadidos al índice del repositorio
